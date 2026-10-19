@@ -95,7 +95,7 @@
         },
         "low_visibility_frequency_threshold": {
           "type": "number",
-          "default": 4.0,
+          "default": 4.5,
           "minimum": 0.0,
           "description": "Average frequency magnitude below which a block is considered low visibility."
         }
