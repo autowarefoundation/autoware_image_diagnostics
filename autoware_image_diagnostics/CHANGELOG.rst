@@ -2,6 +2,14 @@
 Changelog for package autoware_image_diagnostics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.0 (2026-10-19)
+------------------
+* First release from the standalone repository. The package moved out of ``autoware_universe`` and is registered in the Autoware Index.
+* fix: match the low visibility schema default to the parameter file
+* docs: list the parameters and the current outputs in the package README
+* docs: describe the package in package.xml
+* Contributors: Mete Fatih Cırıt
+
 0.53.0 (2026-09-29)
 -------------------
 * Merge remote-tracking branch 'origin/main' into prepare-0.53.0-changelog
